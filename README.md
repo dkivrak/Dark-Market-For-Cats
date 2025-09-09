@@ -17,7 +17,7 @@ The application is designed with **custom CSS/JS animations**, **hacker-style vi
 - Custom JavaScript enhancements, CSS styling, and responsive UI 
 
 
-## 🖥️ Screenshots
+##  Screenshots
 
 - Matrix-style login page  
 - Product detail page
@@ -27,7 +27,7 @@ The application is designed with **custom CSS/JS animations**, **hacker-style vi
 
 ## Tech Stack
 
-Backend: Python, Django 5.x
-Frontend: HTML5, CSS3, Vanilla JS
-Database: SQLite
-Tools: Git, GitHub, PyCharm
+-Backend: Python, Django 5.x
+-Frontend: HTML5, CSS3, Vanilla JS
+-Database: SQLite
+-Tools: Git, GitHub, PyCharm
