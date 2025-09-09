@@ -1,8 +1,8 @@
 # Dark-Market-For-Cats 
 
-Dark-Market-For-Cats is a Django-powered **cat-themed underground marketplace simulation**, blending humor, dark aesthetics, and e-commerce mechanics into a highly customized and playful web project.
+Dark-Market-For-Cats is a Django-powered cat-themed underground marketplace simulation, blending humor, dark aesthetics, and e-commerce mechanics into a highly customized and playful web project.
 
-The application is designed with **custom CSS/JS animations**, **hacker-style visuals**, and interactive product mechanics such as **cat popups, nested reviews**, and **mini-games** to create an entertaining user experience for both developers and users alike.
+The application is designed with **custom CSS/JS animations**, hacker-style visuals, and interactive product mechanics such as cat popups, nested reviews, and mini-games to create an entertaining user experience for both developers and users alike.
 
 >  **This project has not deployed yet.**
 
